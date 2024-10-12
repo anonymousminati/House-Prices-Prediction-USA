@@ -25,7 +25,7 @@ This project aims to build a model for predicting house prices in King County, U
 
 ### Exploratory Data Analysis (EDA)
 
-![Graph](https://github.com/NikitaKundle01/House-Price-prediction/blob/main/output.png?raw=true)
+![Graph](https://github.com/anonymousminati/House-Prices-Prediction-USA/blob/main/output.png?raw=true)
 
 This scatter plot shows the relationship between house price and square footage of living space. The x-axis represents square footage (`sqft_living`), and the y-axis represents the price.
 
@@ -41,7 +41,7 @@ This scatter plot shows the relationship between house price and square footage 
 
 ---
 
-![Graph](https://github.com/NikitaKundle01/House-Price-prediction/blob/main/output1.png?raw=true)
+![Graph](https://github.com/anonymousminati/House-Prices-Prediction-USA/blob/main/output1.png?raw=true)
 
 This histogram illustrates the distribution of house prices. The x-axis shows price (in millions), and the y-axis shows the number of houses in each price range.
 
@@ -53,7 +53,7 @@ This histogram illustrates the distribution of house prices. The x-axis shows pr
 
 ---
 
-![Graph](https://github.com/NikitaKundle01/House-Price-prediction/blob/main/output2.png?raw=true)
+![Graph](https://github.com/anonymousminati/House-Prices-Prediction-USA/blob/main/output2.png?raw=true)
 
 #### Key Observations:
 - **Strong Positive Correlation**: `sqft_living` has a strong positive correlation with price, suggesting larger homes command higher prices.
